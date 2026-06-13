@@ -108,3 +108,6 @@ R-squared (R2) Score: 0.9098
 Official PHM08 Challenge Score (Adjusted): 107207.4460
 
 Average Fleet Correlation Score on TEST Data (Random Forest): 0.9724
+
+Reference: https://www.kaggle.com/code/lucague/predictive-maintenance-nasa-turbofan-engine#Load-Data
+           https://github.com/mohan696matlab/CMAPS_turbo_engine_RUL 
